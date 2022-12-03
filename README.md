@@ -116,7 +116,7 @@ Special thanks to these developers for making this project possible:
 
 ## Links
 
-- [Link to deployed application on Heroku](https://watch-it-later.herokuapp.com/)
+- [Link to deployed application](https://watch-it-later.onrender.com/)
 
 - [Link to GitHub repository](https://github.com/cnohilly/watch-it-later)
 
